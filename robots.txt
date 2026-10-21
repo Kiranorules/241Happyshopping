@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiranorules.github.io/241Happyshopping/sitemap.xml
